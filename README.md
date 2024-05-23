@@ -3,13 +3,13 @@
 This repository contains Java programs that perform parsing using a stack-based approach and demonstrate the usage of regular expressions. The programs read input, process it according to specified rules, and output the results. Detailed explanations of each program's functionality are provided.
 
 ## Files
-- `hw2_hikmet_terzioglu.java`: Java program that performs parsing using a stack-based approach.
+- `Parsing.java`: Java program that performs parsing using a stack-based approach.
 - `regex.java`: Java program that demonstrates the usage of regular expressions.
 - `f.txt`: Sample input file for the parsing program.
 
 ## Java Program Descriptions
 
-### `hw2_hikmet_terzioglu.java`
+### `Parsing.java`
 This Java program implements a stack-based parsing algorithm to evaluate expressions. The program reads an input string containing an expression, processes it using a stack, and outputs the steps taken during the parsing process. The parsing rules include operations like shift and reduce based on predefined grammar.
 
 #### Key Features:
