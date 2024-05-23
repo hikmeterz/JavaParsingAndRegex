@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.regex.*;
 
 
-public class hw2_hikmet_terzioglu{
+public class Parsing{
     
     public static void main(String[] args) {
     
